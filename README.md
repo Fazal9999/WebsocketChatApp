@@ -32,6 +32,10 @@ node server.js [port]
 
 ### Screenshots
 
-|                           User 1                           |                           User 2                           |
-| :--------------------------------------------------------: | :--------------------------------------------------------: |
+| User 1                                                     | User 2                                                     |
+|:----------------------------------------------------------:|:----------------------------------------------------------:|
 | <img src="screenshots/user1.jpeg" width=272 height=auto> > | <img src="screenshots/user2.jpeg" width=272 height=auto> > |
+
+### Script on Linux server
+
+![](screenshots/terminal.png)
